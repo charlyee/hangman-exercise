@@ -1,5 +1,11 @@
 * body {
   font-family: sans-serif;
+
+}
+.bg {
+  background: url(../img/game.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 /* Keep it simple - improvement would be to not display characters */
 .letter {
