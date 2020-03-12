@@ -6,11 +6,11 @@
       /* start config options */
       availableLetters = "abcdefghijklmnopqrstuvwxyz";
       lives = 5;
-      words = ["cat", "dog", "cow", "reindeer"];
+      words = ["cat", "dog", "cow", "reindeer", "Nigeria", "Canada"];
       messages = {
           win: 'You win!',
           lose: 'Game over!',
-          guessed: ' already guessed, please try again...',
+          guessed: ' Oops..., please try again...',
           validLetter: 'Please enter a letter from A-Z'
       };
       /* end config options */
